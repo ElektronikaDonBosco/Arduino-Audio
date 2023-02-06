@@ -28,12 +28,16 @@ En resumen, el Arduino Audio Meter es un proyecto ideal para aquellos interesado
 
 
 
-CÓMO FUNCIONA 
+CÓMO FUNCIONA
+
+
 El circuito está diseñado para no alterar ni modificar la señal de audio original. El ADC (conversor analógico-digital) de Arduino leerá la señal de la guitarra para crear la animación en la pantalla LED sin agregar ruido ni cambios en la señal 
 original. El circuito consta de tres partes importantes: la etapa de entrada, las matrices LED y la fuente de alimentación. Estos componentes trabajan juntos para lograr la visualización de la señal de audio sin afectar su calidad original.
 
 
 PARTES
+
+
 
 Etapa de entrada analógica: La señal de audio débil se amplifica y filtra para prepararla para el ADC (convertidor analógico a digital) de Arduino UNO. Se utiliza un amplificador operacional rail-to-rail (MCP6002) para amplificar la señal (2 a 30 veces dependiendo del potenciómetro de ganancia), de modo que se pueda utilizar cualquier señal de audio.
 
