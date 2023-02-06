@@ -16,6 +16,7 @@ En resumen, el Arduino Audio Meter es un proyecto ideal para aquellos interesado
 
 
 
+![image](https://user-images.githubusercontent.com/124241175/216924077-e61717c6-023b-4ac7-9460-2fe5a780fa81.png)
 
 
 
